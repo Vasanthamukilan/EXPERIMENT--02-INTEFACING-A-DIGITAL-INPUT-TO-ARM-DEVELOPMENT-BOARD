@@ -1,5 +1,3 @@
-## Name:Vasanthamukilan M
-## Register No:212222230167
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
 ## Aim:
 To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
@@ -241,7 +239,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 ```
 ## Output  :
-<img height=40% width=50% src="https://github.com/Vasanthamukilan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119559694/e70c5760-62b5-4f27-9842-a49c6cfe2afb">
+
+<img height=40% width=50% src="https://github.com/Vasanthamukilan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119559694/99e1c1b5-3809-4221-9b26-754558e2dccd">
 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
